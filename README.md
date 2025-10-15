@@ -5,7 +5,6 @@ This project demonstrates the design and verification of a **4-bit up-counter** 
 
 - RTL design of a 4-bit up-counter
 - Testbench creation with UVM
-- SystemVerilog Assertions (SVA) for functional checking
 - Functional coverage for counter values
 
 ---
